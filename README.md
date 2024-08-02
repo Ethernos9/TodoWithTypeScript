@@ -1,3 +1,3 @@
-# TOOD application using typescript 
+# TODO application using typescript 
     created my first project using typeScript
   
